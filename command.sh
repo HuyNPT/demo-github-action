@@ -1,1 +1,1 @@
-az webapp up -n <your-appservice>
+az webapp up -n  project2-deploy --resource-group azuredevops --sku free

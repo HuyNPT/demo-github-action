@@ -6,7 +6,7 @@ In this project, you will practice configuring Github Action with makefile and r
 Project Plan
 
 * A link to a Trello board for the project
-https://trello.com/invite/b/5TjuMMQU/ATTIefb7008729775633916a8f423b98e1db99EE1492/udacity-project2
+https://trello.com/b/5TjuMMQU/udacity-project2
 
 * A link to a spreadsheet that includes the original and final project plan>
 https://1drv.ms/x/s!AiSQEPH1QyougaRt3d1JquoU5SkZtQ?e=nyQwKz
@@ -25,7 +25,7 @@ az webapp up -n <your-appservice> -g <your-resources-group (if already exist els
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 ![Alt text](image-1.png)
 * Output of a test run
-![Alt text](image-2.png)
+![Alt text](image-7.png)
 * Output Locust
 ![Alt text](image-5.png)
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
