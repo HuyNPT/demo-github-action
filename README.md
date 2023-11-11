@@ -7,7 +7,7 @@ Project Plan
 https://trello.com/invite/b/5TjuMMQU/ATTIefb7008729775633916a8f423b98e1db99EE1492/udacity-project2
 
 * A link to a spreadsheet that includes the original and final project plan>
-
+https://1drv.ms/x/s!AiSQEPH1QyougaRt3d1JquoU5SkZtQ?e=nyQwKz
 ## Instructions
 
 * Architectural Diagram (Shows how key parts of the system work)>
@@ -48,5 +48,4 @@ Project can be upgraded by Azure Pipelines only when Pull Request is approved fo
 This pipeline can also be applied to Java, NodeJs, and C#.
 ## Demo 
 https://www.youtube.com/watch?v=1RWMaXJrxKE
-
-
+Backup link if can't watch on youtube: https://1drv.ms/v/s!AiSQEPH1QyougaRsgASz-aNeDC7Zzw?e=Wv9vB3
