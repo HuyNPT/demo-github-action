@@ -1,5 +1,7 @@
-# Overview
 [![Python application test with Github Actions](https://github.com/HuyNPT/demo-github-action/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/HuyNPT/demo-github-action/actions/workflows/python-app.yml)
+
+# Overview
+In this project, you will practice configuring Github Action with makefile and requirement.txt, Azure Pipelines to enable Continuous Delivery to Azure App Service.
 ## Project Plan
 Project Plan
 
